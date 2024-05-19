@@ -65,9 +65,7 @@
 
 <a name="xi6gu"></a>
 # 💡💡 购买方法
-**今日特惠79（原价399），现在刚开始出售这个专栏，每10人购买涨价10元，直到恢复原价，快联系我购买吧～**
-
-**加我微信【simons2035】，付款之后我发大家权限**<br />![1c69390a7515c7015344ce5964fce44.jpg](https://cdn.nlark.com/yuque/0/2024/jpeg/21688751/1711376551925-6003fb57-cfc5-4a77-93b0-d8d945054e2e.jpeg#averageHue=%23f8fdf9&clientId=ubcd3830d-6866-4&from=drop&height=500&id=TwK1V&originHeight=1466&originWidth=1074&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=124029&status=done&style=none&taskId=u9c2774ba-8f0a-412f-9667-70fa61aaf99&title=&width=366)
+**今日特惠109（原价399），现在刚开始出售这个专栏，每10人购买涨价10元，直到恢复原价，快联系我购买吧～**
 
 **如果现在不想购买也可以关注我的公众号【攻城狮们的小屋】，进入有惊喜～**<br />回复【1】，领取python资料大全（超多）~<br />回复【2】，领取豆瓣top400本电子书~<br />回复【3】，领取一堆ppt模板~
 
