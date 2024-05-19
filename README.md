@@ -1,5 +1,4 @@
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/21688751/1708398391990-7b6c7df6-e884-4e02-85db-fff4008c9068.png#averageHue=%23464646&clientId=uf9fb2ed2-cd9b-4&from=paste&height=992&id=u625e4d19&originHeight=1983&originWidth=3000&originalType=binary&ratio=2&rotation=0&showTitle=false&size=2235951&status=done&style=none&taskId=u5ea3d186-3a6c-4f1e-8e19-3d4ddfaec3e&title=&width=1500)
-:::success
+
 🎯 🎯 纷繁世界中遇到的有缘人，你好，很幸运我们在这里相识，先给大家一份见面礼。**现在sora还没开放，提前了解sora底层原理，时不我待。**<br />👉👉一份见面礼：[https://www.yuque.com/huanlema-duwrx/intelligence/fyw9tcyosh4e18g9?singleDoc#](https://www.yuque.com/huanlema-duwrx/intelligence/fyw9tcyosh4e18g9?singleDoc#) 《经典深度学习入门教程推荐》
 
 🦾🦾**这是我总结了一整套较为完善的入门AI的理论+实践，理论是我整理的优质笔记，实践是各种练习题。不讲虚的全是干货**<br />🦾🦾预计学习时间：快速入门**1个月**可以一试，也可以为了考研、找工作、转行仔细看，**一年**够了<br />✍️✍️包括但不限于**理论知识、实践操作、学习资源、AI应用、Sora+chatgpt+AI绘画信息汇总，整体换成pdf超过1000页，保证详细又能保证精华知识的精简。**<br />👀注意：**赠送**我搜集整理的**全部sora资料**，陆续放出，近期更新：内测注册方法<br />👀试看和退款：如果不满意可以**1天内退款**
