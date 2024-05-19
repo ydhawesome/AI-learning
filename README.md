@@ -9,7 +9,7 @@
 
 - 😃我是刚刚毕业于一所985学校的**交叉学科硕士**<br />现在做**AI交叉**<br />🤸‍♂️🤸‍♂️研究生三年**一直自学AI**，亲身经历<br />把笔记、经验、教训、学习路线总结为这个专栏<br />💟💟是我学习3、4年的**精华总结**<br />希望帮助你少走弯路<br />用最短的时间**get人工智能的技能**
 
-**另外：我从22年12月开始研究AI副业方法，看过几百个知乎和生财项目，有点小经验，也在专栏中总结，这个专栏是理论到实践到带来收入最全的一个专栏了**
+另外：我从22年12月开始研究AI副业方法，看过几百个知乎和生财项目，有点小经验，也在专栏中总结，这个专栏是理论到实践到带来收入最全的一个专栏了**
 
 
 
@@ -17,7 +17,7 @@
 - ⛳️可能大家都看到了，这两年**chatgpt**，这两天爆出的**sora**新闻<br />足以说明未来10年一定是**人工智能的时代**<br />也是我为什么在研究生毅然决然选择**搞AI**的原因，当时是2020年<br />现在是2024年，说实话不晚，**一切才刚刚开始，努力永远不晚**<br />🔆🔆加油！！！<br />还有任何问题可微信联系【**simons2035**】，随时随地为大家解答！
 
 
--  <br />**通过这个二维码详细预览内容，里面有AI学习路线相送哦：**<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/21688751/1711466030367-b3db9d58-82bd-41ac-93bc-b51f37d351a8.png#averageHue=%23a3a3a3&clientId=u1dae8aaa-fcdc-4&from=paste&height=214&id=u187320db&originHeight=268&originWidth=266&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=24758&status=done&style=none&taskId=u04050501-3ba8-4f4f-b4d4-06ccf262168&title=&width=212.8)
+<br />**通过这个二维码详细预览内容，里面有AI学习路线相送哦：**<br />![image.png](https://cdn.nlark.com/yuque/0/2024/png/21688751/1711466030367-b3db9d58-82bd-41ac-93bc-b51f37d351a8.png#averageHue=%23a3a3a3&clientId=u1dae8aaa-fcdc-4&from=paste&height=214&id=u187320db&originHeight=268&originWidth=266&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=24758&status=done&style=none&taskId=u04050501-3ba8-4f4f-b4d4-06ccf262168&title=&width=212.8)
 
 
 - 大家可以看到内容非常干！它既能带你揭开AI的面纱，又能让你最大程度的挖掘AI的潜能！**专栏以类似腾讯文档的形式分享给大家。专栏原定价399元，今天购买只需109元。**前5个购买的读者还会送大家一套Sora全套资源包！（**目前已经被卖到了40元一套**）。有需要的朋友识别下面的二维码，直接发红包购买即可！对了，**如果你不想买全部的，想买一部分，也是可以的，告诉我即可**！最后大家可以在闲鱼搜【攻城狮协会会长】，你会看到笔记的销量和好评~
